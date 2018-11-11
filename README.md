@@ -3,7 +3,7 @@
 Через cURL необходимо обратиться сюда https://syn.su/testwork.php ,
 со следующими параметрами (method=get) методом POST
 Из JSON ответа необходимо каждый час отправлять
-сюда https://syn.su/testwork.phpcURL`ом , со следующими
+сюда https://syn.su/testwork.phpcURL `ом , со следующими 
 параметрами (method=UPDATE&amp;message=) методом POST значения
 параметра message взять  из параметра message response
 зашифрованного методом XOR, к результату шифрования применить
